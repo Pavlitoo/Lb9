@@ -1,0 +1,23 @@
+.header1 {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.header2 {
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+    margin: 15px 0;
+}
+
+.header3 {
+    color: red;
+    font-size: 18px;
+    text-decoration: underline;
+    text-align: right;
+    margin: 10px 0;
+}
